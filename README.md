@@ -29,6 +29,7 @@ company_location: The location of the company offering the job.
 company_size: The size of the company, typically categorized as small, medium, or large.
 
 **Project Objectives**
+
 Salary Analysis: Examine salary trends across different job titles, experience levels, and locations, both in local currencies and USD.
 
 Remote Work Trends: Analyze the ratio of remote work opportunities across various roles and experience levels.
@@ -38,6 +39,7 @@ Employment Types: Visualize the distribution of employment types (e.g., full-tim
 Global Job Trends: Identify job location trends by mapping where employees are located versus where the companies are based.
 **
 Tools & Technologies**
+
 Power BI: Used to create an interactive dashboard for exploring job market data, salary trends, and employment patterns.
 
 Python: Utilized for initial data cleaning and pre-processing, such as currency conversion and outlier handling.
